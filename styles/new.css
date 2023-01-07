@@ -2,4 +2,23 @@
     margin: 0;
     font-family: 'open sans',sans-serif;
 }
-/* header and navigation */
+
+    
+
+.button-primary{
+    color: chartreuse;
+    background-color: brown;
+    font-size: 18px;
+    
+
+}
+.banner{
+    margin: 50px;
+    background-image: url('../images/banner/banner2.png');
+    text-align: center;
+}
+.about{
+    text-align:center;
+    
+
+}
